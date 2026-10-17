@@ -1,0 +1,52 @@
+<!-- edit: https://readme-typing-svg.demolab.com/demo/?size=22&duration=1600&pause=1600&color=4493F8&center=true&vCenter=true&width=760&height=56&lines=Cloud.+Infrastructure.+Agentic+AI.;AWS+Certified+Cloud+Practitioner;Building+on+AWS%2C+one+project+at+a+time -->
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 760 56'
+    style='background-color: #00000000;'
+    width='760px' height='56px'>
+
+    
+                <path id='path0'>
+                            <!-- Single line -->
+                                <animate id='d0' attributeName='d' begin='0s;d2.end'
+                    dur='3200ms' fill='remove'
+                    values='m0,28 h0 ; m0,28 h760 ; m0,28 h760 ; m0,28 h0' keyTimes='0;0.4;0.9;1' />
+                    </path>
+    <text font-family='"monospace", monospace' fill='#4493F8' font-size='22'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            Cloud. Infrastructure. Agentic AI.
+        </textPath>
+    </text>
+        <path id='path1'>
+                            <!-- Single line -->
+                                <animate id='d1' attributeName='d' begin='d0.end'
+                    dur='3200ms' fill='remove'
+                    values='m0,28 h0 ; m0,28 h760 ; m0,28 h760 ; m0,28 h0' keyTimes='0;0.4;0.9;1' />
+                    </path>
+    <text font-family='"monospace", monospace' fill='#4493F8' font-size='22'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path1'>
+            AWS Certified Cloud Practitioner
+        </textPath>
+    </text>
+        <path id='path2'>
+                            <!-- Single line -->
+                                <animate id='d2' attributeName='d' begin='d1.end'
+                    dur='3200ms' fill='remove'
+                    values='m0,28 h0 ; m0,28 h760 ; m0,28 h760 ; m0,28 h0' keyTimes='0;0.4;0.9;1' />
+                    </path>
+    <text font-family='"monospace", monospace' fill='#4493F8' font-size='22'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path2'>
+            Building on AWS, one project at a time
+        </textPath>
+    </text>
+</svg>
