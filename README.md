@@ -19,6 +19,9 @@
 I build on **AWS** — cloud infrastructure, networking and security — with a growing focus on **agentic AI**.<br>
 Here on GitHub I share the practical side: hands-on cloud projects, small automation tools, and what I learn on my certification path.
 
+<p align="center">
+  <img src="./assets/terminal.svg" alt="whoami — Yi Xian, cloud & infrastructure on AWS. AWS Cloud Practitioner 1000/1000. Solutions Architect Associate in progress." width="100%">
+</p>
 
 ### What Drives My Work
 

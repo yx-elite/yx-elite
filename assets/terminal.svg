@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 332" width="1000" height="332" role="img" aria-label="Terminal: whoami — Yi Xian, cloud and infrastructure on AWS. AWS Cloud Practitioner 1000/1000, Solutions Architect Associate in progress.">
+<title>whoami</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#121b3d"/></linearGradient>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#5b6fa8" fill-opacity=".22"/></pattern>
+  <radialGradient id="glowC"><stop offset="0" stop-color="#38bdf8" stop-opacity=".35"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowV"><stop offset="0" stop-color="#a78bfa" stop-opacity=".35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient><clipPath id="tc"><rect width="1000" height="332" rx="14"/></clipPath></defs>
+<style>
+  .mono { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace; } .sans { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Roboto,Helvetica,Arial,sans-serif; }
+  .fade { opacity: 0; animation: fade .7s ease-out forwards; }
+  @keyframes fade { to { opacity: 1; } }
+  .up { opacity: 0; animation: up .8s cubic-bezier(.2,.8,.2,1) forwards; }
+  @keyframes up { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  .pulse { animation: pulse 2.2s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+  .breathe { animation: breathe 7s ease-in-out infinite; }
+  @keyframes breathe { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+  .blink { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .flow { stroke-dasharray: 4 6; animation: flow 1.2s linear infinite; }
+  @keyframes flow { to { stroke-dashoffset: -20; } }
+  .draw { stroke-dasharray: 1.02; stroke-dashoffset: 1.02; animation: draw 1.6s ease-out forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  .ring { transform-box: fill-box; transform-origin: center; animation: ring 2s ease-out infinite; }
+  @keyframes ring { from { transform: scale(1); opacity: .8; } to { transform: scale(2.1); opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) {
+    .fade, .up { animation: none; opacity: 1; }
+    .draw { animation: none; stroke-dashoffset: 0; }
+    .pulse, .breathe, .blink, .flow, .ring { animation: none; }
+  }</style>
+<g clip-path="url(#tc)"><rect width="1000" height="332" fill="#0a0f1e"/><rect width="1000" height="332" fill="url(#dots)" opacity=".5"/>
+<rect width="1000" height="38" fill="#141b33"/><path d="M0 38.5H1000" stroke="#26314f"/></g>
+<rect x=".5" y=".5" width="999" height="331" rx="13.5" fill="none" stroke="#334155" stroke-opacity=".8"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/>
+<text x="500.0" y="23.5" class="mono" font-size="12" fill="#94a3b8" text-anchor="middle">yixian@cloud: ~</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.50s" fill="freeze"/><text x="30.0" y="78" class="mono" font-size="14" fill="#34d399" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">yixian@cloud</text><text x="130.8" y="78" class="mono" font-size="14" fill="#94a3b8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text><text x="139.2" y="78" class="mono" font-size="14" fill="#38bdf8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">~</text><text x="147.6" y="78" class="mono" font-size="14" fill="#e5e7eb" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text></g>
+<text x="164.4" y="78" class="mono" font-size="14" fill="#e5e7eb" opacity="0">w<set attributeName="opacity" to="1" begin="1.000s" fill="freeze"/></text>
+<text x="172.8" y="78" class="mono" font-size="14" fill="#e5e7eb" opacity="0">h<set attributeName="opacity" to="1" begin="1.063s" fill="freeze"/></text>
+<text x="181.2" y="78" class="mono" font-size="14" fill="#e5e7eb" opacity="0">o<set attributeName="opacity" to="1" begin="1.178s" fill="freeze"/></text>
+<text x="189.6" y="78" class="mono" font-size="14" fill="#e5e7eb" opacity="0">a<set attributeName="opacity" to="1" begin="1.261s" fill="freeze"/></text>
+<text x="198.0" y="78" class="mono" font-size="14" fill="#e5e7eb" opacity="0">m<set attributeName="opacity" to="1" begin="1.318s" fill="freeze"/></text>
+<text x="206.4" y="78" class="mono" font-size="14" fill="#e5e7eb" opacity="0">i<set attributeName="opacity" to="1" begin="1.423s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.83s" fill="freeze"/><text x="30.0" y="103" class="mono" font-size="14" fill="#e5e7eb" textLength="58.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Yi Xian</text><text x="88.8" y="103" class="mono" font-size="14" fill="#94a3b8" textLength="361.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> — cloud &amp; infrastructure on AWS · Malaysia</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="2.13s" fill="freeze"/><text x="30.0" y="128" class="mono" font-size="14" fill="#34d399" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">yixian@cloud</text><text x="130.8" y="128" class="mono" font-size="14" fill="#94a3b8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text><text x="139.2" y="128" class="mono" font-size="14" fill="#38bdf8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">~</text><text x="147.6" y="128" class="mono" font-size="14" fill="#e5e7eb" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text></g>
+<text x="164.4" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">c<set attributeName="opacity" to="1" begin="2.633s" fill="freeze"/></text>
+<text x="172.8" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">a<set attributeName="opacity" to="1" begin="2.763s" fill="freeze"/></text>
+<text x="181.2" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">t<set attributeName="opacity" to="1" begin="2.850s" fill="freeze"/></text>
+<text x="198.0" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">f<set attributeName="opacity" to="1" begin="2.998s" fill="freeze"/></text>
+<text x="206.4" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">o<set attributeName="opacity" to="1" begin="3.073s" fill="freeze"/></text>
+<text x="214.8" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">c<set attributeName="opacity" to="1" begin="3.173s" fill="freeze"/></text>
+<text x="223.2" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">u<set attributeName="opacity" to="1" begin="3.236s" fill="freeze"/></text>
+<text x="231.6" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">s<set attributeName="opacity" to="1" begin="3.351s" fill="freeze"/></text>
+<text x="240.0" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">.<set attributeName="opacity" to="1" begin="3.434s" fill="freeze"/></text>
+<text x="248.4" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">t<set attributeName="opacity" to="1" begin="3.491s" fill="freeze"/></text>
+<text x="256.8" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">x<set attributeName="opacity" to="1" begin="3.596s" fill="freeze"/></text>
+<text x="265.2" y="128" class="mono" font-size="14" fill="#e5e7eb" opacity="0">t<set attributeName="opacity" to="1" begin="3.665s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.08s" fill="freeze"/><text x="30.0" y="153" class="mono" font-size="14" fill="#38bdf8" textLength="168.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">cloud infrastructure</text><text x="198.0" y="153" class="mono" font-size="14" fill="#94a3b8" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ·  </text><text x="240.0" y="153" class="mono" font-size="14" fill="#34d399" textLength="176.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">networking &amp; security</text><text x="416.4" y="153" class="mono" font-size="14" fill="#94a3b8" textLength="42.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ·  </text><text x="458.4" y="153" class="mono" font-size="14" fill="#a78bfa" textLength="84.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">agentic AI</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.38s" fill="freeze"/><text x="30.0" y="178" class="mono" font-size="14" fill="#34d399" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">yixian@cloud</text><text x="130.8" y="178" class="mono" font-size="14" fill="#94a3b8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text><text x="139.2" y="178" class="mono" font-size="14" fill="#38bdf8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">~</text><text x="147.6" y="178" class="mono" font-size="14" fill="#e5e7eb" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text></g>
+<text x="164.4" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">a<set attributeName="opacity" to="1" begin="4.875s" fill="freeze"/></text>
+<text x="172.8" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">w<set attributeName="opacity" to="1" begin="4.962s" fill="freeze"/></text>
+<text x="181.2" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">s<set attributeName="opacity" to="1" begin="5.017s" fill="freeze"/></text>
+<text x="198.0" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">c<set attributeName="opacity" to="1" begin="5.185s" fill="freeze"/></text>
+<text x="206.4" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">e<set attributeName="opacity" to="1" begin="5.285s" fill="freeze"/></text>
+<text x="214.8" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">r<set attributeName="opacity" to="1" begin="5.348s" fill="freeze"/></text>
+<text x="223.2" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">t<set attributeName="opacity" to="1" begin="5.463s" fill="freeze"/></text>
+<text x="231.6" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">s<set attributeName="opacity" to="1" begin="5.546s" fill="freeze"/></text>
+<text x="248.4" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">-<set attributeName="opacity" to="1" begin="5.708s" fill="freeze"/></text>
+<text x="256.8" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">-<set attributeName="opacity" to="1" begin="5.777s" fill="freeze"/></text>
+<text x="265.2" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">l<set attributeName="opacity" to="1" begin="5.907s" fill="freeze"/></text>
+<text x="273.6" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">i<set attributeName="opacity" to="1" begin="5.994s" fill="freeze"/></text>
+<text x="282.0" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">s<set attributeName="opacity" to="1" begin="6.049s" fill="freeze"/></text>
+<text x="290.4" y="178" class="mono" font-size="14" fill="#e5e7eb" opacity="0">t<set attributeName="opacity" to="1" begin="6.142s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="6.55s" fill="freeze"/><text x="30.0" y="203" class="mono" font-size="14" fill="#34d399" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ✓ </text><text x="63.6" y="203" class="mono" font-size="14" fill="#e5e7eb" textLength="344.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Cloud Practitioner (CLF-C02) ........... </text><text x="408.0" y="203" class="mono" font-size="14" fill="#34d399" textLength="75.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1000/1000</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="6.61s" fill="freeze"/><text x="30.0" y="228" class="mono" font-size="14" fill="#fbbf24" textLength="33.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ~ </text><text x="63.6" y="228" class="mono" font-size="14" fill="#e5e7eb" textLength="344.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Solutions Architect – Associate ........ </text><text x="408.0" y="228" class="mono" font-size="14" fill="#fbbf24" textLength="92.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">in progress</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="6.91s" fill="freeze"/><text x="30.0" y="253" class="mono" font-size="14" fill="#34d399" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">yixian@cloud</text><text x="130.8" y="253" class="mono" font-size="14" fill="#94a3b8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text><text x="139.2" y="253" class="mono" font-size="14" fill="#38bdf8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">~</text><text x="147.6" y="253" class="mono" font-size="14" fill="#e5e7eb" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text></g>
+<text x="164.4" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">e<set attributeName="opacity" to="1" begin="7.412s" fill="freeze"/></text>
+<text x="172.8" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">c<set attributeName="opacity" to="1" begin="7.512s" fill="freeze"/></text>
+<text x="181.2" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">h<set attributeName="opacity" to="1" begin="7.575s" fill="freeze"/></text>
+<text x="189.6" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">o<set attributeName="opacity" to="1" begin="7.690s" fill="freeze"/></text>
+<text x="206.4" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">$<set attributeName="opacity" to="1" begin="7.830s" fill="freeze"/></text>
+<text x="214.8" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">M<set attributeName="opacity" to="1" begin="7.935s" fill="freeze"/></text>
+<text x="223.2" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">O<set attributeName="opacity" to="1" begin="8.004s" fill="freeze"/></text>
+<text x="231.6" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">T<set attributeName="opacity" to="1" begin="8.134s" fill="freeze"/></text>
+<text x="240.0" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">T<set attributeName="opacity" to="1" begin="8.221s" fill="freeze"/></text>
+<text x="248.4" y="253" class="mono" font-size="14" fill="#e5e7eb" opacity="0">O<set attributeName="opacity" to="1" begin="8.276s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="8.69s" fill="freeze"/><text x="30.0" y="278" class="mono" font-size="14" fill="#fde68a" textLength="436.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">"Keep it simple. Make it secure. Build it to scale."</text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="8.99s" fill="freeze"/><text x="30.0" y="303" class="mono" font-size="14" fill="#34d399" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">yixian@cloud</text><text x="130.8" y="303" class="mono" font-size="14" fill="#94a3b8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">:</text><text x="139.2" y="303" class="mono" font-size="14" fill="#38bdf8" textLength="8.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">~</text><text x="147.6" y="303" class="mono" font-size="14" fill="#e5e7eb" textLength="16.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$ </text></g>
+<rect x="165.4" y="65" width="9" height="17" fill="#38bdf8" opacity="0"><set attributeName="opacity" to="1" begin="0.50s"/><animate attributeName="x" values="165.4;165.4;173.8;182.2;190.6;199.0;207.4;215.8;165.4;173.8;182.2;190.6;199.0;207.4;215.8;224.2;232.6;241.0;249.4;257.8;266.2;274.6;165.4;173.8;182.2;190.6;199.0;207.4;215.8;224.2;232.6;241.0;249.4;257.8;266.2;274.6;283.0;291.4;299.8;165.4;173.8;182.2;190.6;199.0;207.4;215.8;224.2;232.6;241.0;249.4;257.8;165.4;165.4" keyTimes="0.0000;0.0556;0.1113;0.1183;0.1311;0.1403;0.1467;0.1584;0.2374;0.2930;0.3075;0.3172;0.3233;0.3336;0.3420;0.3531;0.3601;0.3729;0.3822;0.3885;0.4002;0.4079;0.4869;0.5425;0.5522;0.5583;0.5687;0.5770;0.5881;0.5951;0.6079;0.6172;0.6235;0.6352;0.6429;0.6574;0.6670;0.6732;0.6835;0.7692;0.8248;0.8360;0.8430;0.8558;0.8650;0.8714;0.8830;0.8907;0.9052;0.9149;0.9210;0.9999;1" dur="8.986s" calcMode="discrete" fill="freeze"/><animate attributeName="y" values="65;65;65;65;65;65;65;65;115;115;115;115;115;115;115;115;115;115;115;115;115;115;165;165;165;165;165;165;165;165;165;165;165;165;165;165;165;165;165;240;240;240;240;240;240;240;240;240;240;240;240;290;290" keyTimes="0.0000;0.0556;0.1113;0.1183;0.1311;0.1403;0.1467;0.1584;0.2374;0.2930;0.3075;0.3172;0.3233;0.3336;0.3420;0.3531;0.3601;0.3729;0.3822;0.3885;0.4002;0.4079;0.4869;0.5425;0.5522;0.5583;0.5687;0.5770;0.5881;0.5951;0.6079;0.6172;0.6235;0.6352;0.6429;0.6574;0.6670;0.6732;0.6835;0.7692;0.8248;0.8360;0.8430;0.8558;0.8650;0.8714;0.8830;0.8907;0.9052;0.9149;0.9210;0.9999;1" dur="8.986s" calcMode="discrete" fill="freeze"/><animate attributeName="opacity" values="1;0" dur="1.06s" begin="9.49s" calcMode="discrete" repeatCount="indefinite"/></rect>
+</svg>
