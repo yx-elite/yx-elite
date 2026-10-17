@@ -23,11 +23,15 @@ Here on GitHub I share the practical side: hands-on cloud projects, small automa
   <img src="./assets/terminal.svg" alt="whoami — Yi Xian, cloud & infrastructure on AWS. AWS Cloud Practitioner 1000/1000. Solutions Architect Associate in progress." width="100%">
 </p>
 
+<img align="right" width="400" src="./assets/infra-iso.svg" alt="Animated isometric infrastructure: users, a load balancer, three app servers and a database on a private network, with data flowing between them and an AI agent above">
+
 ### What Drives My Work
 
 - **Curious about what's underneath** — how traffic finds its way, how a system stays up when one part fails, and what it really costs to run.
 - **Started with automation** — small scripts for my own tasks, then a web app on the side, where I met the infrastructure behind it: databases, load balancing, scaling.
 - **Now: cloud + AI agents** — systems that watch themselves, fix small problems, and leave people free for the interesting work.
+
+<br clear="right">
 
 
 ### Tech Stack
