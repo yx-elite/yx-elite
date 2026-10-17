@@ -56,7 +56,7 @@ Here on GitHub I share the practical side: hands-on cloud projects, small automa
 ### GitHub Activity
 
 <p>
-  <img alt="Contributions in the past year" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.contributions&label=contributions%20%C2%B7%20past%20year&style=for-the-badge&color=0ea5e9&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
+  <img alt="Total contributions" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.total_contributions&label=contributions&style=for-the-badge&color=0ea5e9&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
   <img alt="Total stars" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.stars&label=stars&style=for-the-badge&color=8b5cf6&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
   <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.repos&label=repos&style=for-the-badge&color=10b981&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
   <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.followers&label=followers&style=for-the-badge&color=f59e0b&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
