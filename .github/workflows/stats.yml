@@ -1,0 +1,42 @@
+name: Refresh GitHub stats
+
+on:
+  schedule:
+    - cron: "17 2 * * *" # daily, 02:17 UTC (10:17 in Malaysia)
+  workflow_dispatch: # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/stats.yml
+      - .github/scripts/stats.sh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats
+        run: .github/scripts/stats.sh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: ${{ github.repository_owner }}
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/stats.json && git ls-files --error-unmatch assets/stats.json >/dev/null 2>&1; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.json
+          git commit -m "📊 chore: refresh github stats"
+          git push
