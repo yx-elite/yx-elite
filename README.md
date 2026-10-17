@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yixianlan"><img alt="LinkedIn" src="./assets/badges/linkedin.svg"></a>
   <a href="https://www.credly.com/badges/39360eb9-3fd0-4c3d-b4be-604a9a5e2cf6/public_url"><img alt="AWS Certified Cloud Practitioner — 1000/1000" src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20%C2%B7%201000%2F1000-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
-  <a href="https://github.com/yx-elite?tab=repositories&sort=stargazers"><img alt="GitHub stars" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.stars&label=GitHub%20stars&style=for-the-badge&color=8b5cf6&labelColor=24292f&logo=github&logoColor=white&cacheSeconds=3600"></a>
+  <a href="https://github.com/yx-elite"><img alt="GitHub contributions" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.total_contributions&label=contributions&style=for-the-badge&color=0ea5e9&labelColor=24292f&logo=github&logoColor=white&cacheSeconds=3600"></a>
 </p>
 
 ---
@@ -56,9 +56,8 @@ Here on GitHub I share the practical side: hands-on cloud projects, small automa
 ### GitHub Activity
 
 <p>
-  <img alt="Total contributions" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.total_contributions&label=contributions&style=for-the-badge&color=0ea5e9&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
-  <img alt="Total stars" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.stars&label=stars&style=for-the-badge&color=8b5cf6&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
-  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.repos&label=repos&style=for-the-badge&color=10b981&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
+  <img alt="Total contributions" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.total_contributions&label=total%20contributions&style=for-the-badge&color=0ea5e9&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
+  <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.repos&label=public%20repos&style=for-the-badge&color=10b981&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
   <img alt="Followers" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyx-elite%2Fyx-elite%2Fmain%2Fassets%2Fstats.json&query=%24.followers&label=followers&style=for-the-badge&color=f59e0b&labelColor=0b1020&logo=github&logoColor=white&cacheSeconds=3600">
 </p>
 
