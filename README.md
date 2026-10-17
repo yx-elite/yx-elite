@@ -29,10 +29,7 @@ Here on GitHub I share the practical side: hands-on cloud projects, small automa
 
 - **Curious about what's underneath** — how traffic finds its way, how a system stays up when one part fails, and what it really costs to run.
 - **Started with automation** — small scripts for my own tasks, then a web app on the side, where I met the infrastructure behind it: databases, load balancing, scaling.
-- **Now: cloud + AI agents** — systems that watch themselves, fix small problems, and leave people free for the interesting work.
-
-<br clear="right">
-
+- **Now: cloud + AI agents** — systems that watch themselves, fix small problems, and leave people free for the interesting work.<br clear="right">
 
 ### Tech Stack
 
