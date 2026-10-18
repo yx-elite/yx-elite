@@ -24,7 +24,7 @@ Here on GitHub I share the practical side: hands-on cloud projects, small automa
   <img src="./assets/terminal.svg" alt="whoami — Yi Xian, cloud & infrastructure on AWS. AWS Cloud Practitioner 1000/1000. Solutions Architect Associate in progress." width="100%">
 </p>
 
-<img align="right" width="400" src="./assets/infra-iso.svg" alt="Animated isometric infrastructure: users, a load balancer, three app servers and a database on a private network, with data flowing between them and an AI agent above">
+<img align="right" width="45%" src="./assets/infra-iso.svg" alt="Animated isometric infrastructure: users, a load balancer, three app servers and a database on a private network, with data flowing between them and an AI agent above">
 
 ### What Drives My Work
 
